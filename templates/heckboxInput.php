@@ -1,0 +1,1 @@
+<input type="checkbox" class="filter1" data-fbdeep="0" data-fbflush="true" name="filter1"  value="<?php echo $template->get('name'); ?>"/><?php echo $template->get('name'); ?>
